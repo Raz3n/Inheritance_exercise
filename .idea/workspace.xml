@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="056e83c1-6cdf-4cb4-900b-dfa75de3729a" name="Default Changelist" comment="" />
+    <list default="true" id="056e83c1-6cdf-4cb4-900b-dfa75de3729a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/staff/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/staff/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ManagerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/staff/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/staff/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ManagerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ManagerTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +31,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1WLHGIclPXKu3ueCk4RQJdI8PDU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -84,22 +91,22 @@
       <screen x="0" y="23" width="1440" height="793" />
     </state>
     <state x="289" y="352" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.793@0.23.1440.793" timestamp="1578921988101" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1578923414425">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1578923899254">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1578923414425" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1578923414422">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1578923899254" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1578923899253">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1578923414422" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1578923414420">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1578923899253" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1578923899252">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1578923414420" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1578923414424">
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1578923899252" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1578923899254">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1578923414424" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1578923899254" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1578923153880">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

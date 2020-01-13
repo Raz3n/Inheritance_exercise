@@ -25,11 +25,11 @@ public abstract class Employee {
         return salary;
     }
 
-    public double raiseSalary(double salary){
-        return salary++;
+    public void raiseSalary(double raiseAmount){
+        salary = salary + raiseAmount;
     }
 
-    public double payBonus(double payBonus){
+    public double payBonus(){
         return salary / 100;
     }
 }
