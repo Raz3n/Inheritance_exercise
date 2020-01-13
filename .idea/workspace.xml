@@ -41,11 +41,20 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
   </component>
-  <component name="RunManager" selected="JUnit.DeveloperTest">
+  <component name="RunManager" selected="JUnit.DatabaseAdminTest">
     <configuration name="All in employee_lab" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="employee_lab" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabaseAdminTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="employee_lab" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DatabaseAdminTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -70,6 +79,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.DatabaseAdminTest" />
         <item itemvalue="JUnit.DeveloperTest" />
         <item itemvalue="JUnit.All in employee_lab" />
         <item itemvalue="JUnit.ManagerTest" />
@@ -111,22 +121,22 @@
     </state>
     <state x="289" y="373" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1440.900@0.0.1440.900" timestamp="1578924053759" />
     <state x="289" y="352" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.793@0.23.1440.793" timestamp="1578921988101" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1578925154235">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1578925336407">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1578925154235" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1578925154233">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1578925336407" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1578925336403">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1578925154233" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1578925154232">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1578925336403" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1578925336401">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1578925154232" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1578925154234">
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1578925336401" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1578925336405">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1578925154234" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1578925336405" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1578923153880">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
