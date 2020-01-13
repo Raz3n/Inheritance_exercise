@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="056e83c1-6cdf-4cb4-900b-dfa75de3729a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/staff/techStaff/DatabaseAdmin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/staff/techStaff/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DeveloperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/staff/managment/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DirectorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/staff/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/staff/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DatabaseAdminTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DatabaseAdminTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DeveloperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DeveloperTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/EmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/EmployeeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ManagerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/staff/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/staff/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/DatabaseAdminTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/DatabaseAdminTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/DeveloperTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/DeveloperTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/EmployeeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/EmployeeTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/ManagerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ManagerTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +49,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
   </component>
-  <component name="RunManager" selected="JUnit.DatabaseAdminTest">
+  <component name="RunManager" selected="JUnit.All in employee_lab">
     <configuration name="All in employee_lab" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="employee_lab" />
       <option name="PACKAGE_NAME" value="" />
@@ -68,6 +76,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DirectorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="employee_lab" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DirectorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ManagerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="employee_lab" />
       <option name="PACKAGE_NAME" value="" />
@@ -79,9 +96,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in employee_lab" />
+        <item itemvalue="JUnit.DirectorTest" />
         <item itemvalue="JUnit.DatabaseAdminTest" />
         <item itemvalue="JUnit.DeveloperTest" />
-        <item itemvalue="JUnit.All in employee_lab" />
         <item itemvalue="JUnit.ManagerTest" />
       </list>
     </recent_temporary>
@@ -112,31 +130,48 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="533" y="142" key="#com.intellij.ide.util.MemberChooser" timestamp="1578922673287">
-      <screen x="0" y="23" width="1440" height="793" />
+    <state x="533" y="135" key="#com.intellij.ide.util.MemberChooser" timestamp="1578925548966">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="533" y="135" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1578925548966" />
     <state x="533" y="142" key="#com.intellij.ide.util.MemberChooser/0.23.1440.793@0.23.1440.793" timestamp="1578922673287" />
     <state x="289" y="373" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1578924053759">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="289" y="373" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1440.900@0.0.1440.900" timestamp="1578924053759" />
     <state x="289" y="352" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.793@0.23.1440.793" timestamp="1578921988101" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1578925336407">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1578928199426">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1578925336407" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1578925336403">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1578928199426" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1578928199425">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1578925336403" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1578925336401">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1578928199425" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1578928199424">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1578925336401" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1578925336405">
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1578928199424" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1578928199425">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1578925336405" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1578928199425" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1578927924997">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1578927924997" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1578927924996">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1578927924996" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1578927924996">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1578927924996" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1578927924997">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1578927924997" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1578923153880">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
