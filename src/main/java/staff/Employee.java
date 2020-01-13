@@ -18,7 +18,10 @@ public abstract class Employee {
     }
 
     public String setName(String name) {
+        if (name != null){
         return this.name = name;
+        }
+        return "no";
     }
 
     public String getNationalInsuranceNumber(){
@@ -39,6 +42,6 @@ public abstract class Employee {
     }
 
     public double payBonus(){
-        return salary / 100;
+        return salary / 100 ;
     }
 }

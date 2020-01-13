@@ -53,9 +53,18 @@ public class ManagerTest {
 
     @Test
     public void canChangeEmployeeName(){
+//        manager.setName("Steve");
         manager.setName("Steve");
         assertEquals("Steve", manager.getName());
     }
+
+    @Test
+    public void preventNullValueInEmployeeName(){
+        manager.setName(null);
+        assertEquals("Sandy", manager.getName());
+    }
+
+
 
 
 

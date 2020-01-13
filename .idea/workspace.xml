@@ -2,18 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="056e83c1-6cdf-4cb4-900b-dfa75de3729a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/staff/managment/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DirectorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/staff/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/staff/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DatabaseAdminTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DatabaseAdminTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DeveloperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DeveloperTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/EmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/EmployeeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/staff/managment/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/staff/managment/Director.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DirectorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DirectorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ManagerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/staff/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/staff/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/DatabaseAdminTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/DatabaseAdminTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/DeveloperTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/DeveloperTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/EmployeeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/EmployeeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/staff/managment/Director.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/staff/managment/Director.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/DirectorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/DirectorTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/ManagerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ManagerTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -140,22 +136,22 @@
     </state>
     <state x="289" y="373" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1440.900@0.0.1440.900" timestamp="1578924053759" />
     <state x="289" y="352" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.793@0.23.1440.793" timestamp="1578921988101" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1578928199426">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1578929695301">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1578928199426" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1578928199425">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1578929695301" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1578929695300">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1578928199425" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1578928199424">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1578929695300" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1578929695299">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1578928199424" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1578928199425">
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1578929695299" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1578929695300">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1578928199425" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1578929695300" />
     <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1578927924997">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

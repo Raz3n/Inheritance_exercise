@@ -41,17 +41,15 @@ public class DirectorTest {
     }
 
     @Test
-    public void canGetPayBonus(){
-        director.payBonus();
-        assertEquals(10, director.payBonus(), 0.01);
-    }
-
-    @Test
     public void canGetBudget(){
         assertEquals(2000, director.getBudget(), 0.01);
     }
 
-
+    @Test
+    public void canHaveLoadsOfMoney(){
+        director.payBonus();
+        assertEquals(20, director.payBonus(), 0.01);
+    }
 
 
 }
